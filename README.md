@@ -1,3 +1,7 @@
+# im-desktop
+
+Imported from: https://github.com/mail-ru-im/im-desktop
+
 # Build instructions
 
 ## Requirements
