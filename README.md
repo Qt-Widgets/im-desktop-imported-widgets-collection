@@ -4,6 +4,7 @@
 
 **[Download external libraries](https://files.icq.net/get/ohmpeoVRtQk3j3i1DoAF625d82046f1bg)** and extract it to `./external` folder.
 
+**[Alternative external libraries download link](https://drive.google.com/file/d/17zGlfV4GbSRvcr9WQbDlh0KHVlTek8-0/view?usp=sharing)**
 
 ## Windows Build Directions
 
